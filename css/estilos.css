@@ -44,3 +44,9 @@ body {
     background-color: white;
     padding: 1em;
 }
+
+#footer p {
+    background-color: gray;
+    padding: 0.5em;
+    text-align: center;
+}
